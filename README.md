@@ -1,47 +1,50 @@
-<h1 align='center'>👋 Hello there!</h1>
-
-<p align='center'>
-  <a href="#"><img src="https://visitorbadge.io/status?path=abdelazizsaad%2Fabdelazizsaad" /></a>
-  <a href="https://github.com/abdelazizsaad"><img src="https://img.shields.io/github/followers/abdelazizsaad?style=social" /></a>
-</p>
-
-Glad to see you here!  
-I'm **Abdelaziz Saad**, a passionate **Flutter Developer** from 🇪🇬 Egypt.
-
-🚀 I build fast, clean, and responsive mobile apps using Flutter and modern tools like Firebase, Hive, and GetX.  
-🎯 My mission? Craft user-friendly apps that people enjoy and actually *want* to use.  
-💡 I’m always learning, always building — and always up for a challenge!
-
----
-
-### 🧰 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FBC02D?logo=hive&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-000000?logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-0A0A0A?logo=flutter&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Abdelaziz Saad 👋</h1>
+<h3 align="center">Flutter Developer 💙 | Clean Architecture Advocate 🧠 | Passionate about UI/UX & Scalable Apps 🚀</h3>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=abdelazizsaad&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&bg_color=00000000" />
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizsaad&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=css,php" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelazizsaad&theme=darcula&hide_border=true&background=FFFFFF00" />
+  <a href="https://linkedin.com/in/zezo-saad-22aa511b3"><img src="https://img.shields.io/badge/LinkedIn-Abdelaziz%20Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/abdelazizsaad"><img src="https://img.shields.io/badge/GitHub-abdelazizsaad-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/zezo-saad-22aa511b3/)
-- 💻 [GitHub](https://github.com/abdelazizsaad)
-- ☕ Coming soon: [Buy Me a Coffee]()
+## 🚀 About Me
 
----
+```dart
+class AbdelazizSaad {
+  final String role = "Flutter Developer";
+  final String location = "Egypt 🇪🇬";
+  final List<String> mobileSkills = [
+    "Flutter & Dart",
+    "State Management (BLoC, GetX, Provider)",
+    "Firebase & Supabase",
+    "Hive & Local Storage",
+    "Animations & UI Kits"
+  ];
+  final List<String> webSkills = [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript"
+  ];
+  final List<String> goals2025 = [
+    "Master Flutter & Clean Architecture",
+    "Contribute to Open Source",
+    "Build Real-World Projects",
+    "Learn CI/CD & DevOps",
+    "Work Remotely as Flutter Developer"
+  ];
+}
+```
+## 🧰 Tech Toolbox
 
-**Let’s build the next big thing together! 🚀**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zezo2030&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zezo2030&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
